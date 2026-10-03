@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.3
+
+- Added Minecraft `26.3` support.
+- Earlier Minecraft builds remain available separately.
+
 ## 1.1.2
 
 - Added a dedicated Minecraft `26.2` build line.
